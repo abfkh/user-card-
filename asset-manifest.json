@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/user-card-/static/css/main.31e2dc98.chunk.css",
+    "main.js": "/user-card-/static/js/main.35d22350.chunk.js",
+    "main.js.map": "/user-card-/static/js/main.35d22350.chunk.js.map",
+    "runtime-main.js": "/user-card-/static/js/runtime-main.ca74c6ee.js",
+    "runtime-main.js.map": "/user-card-/static/js/runtime-main.ca74c6ee.js.map",
+    "static/js/2.ae1170db.chunk.js": "/user-card-/static/js/2.ae1170db.chunk.js",
+    "static/js/2.ae1170db.chunk.js.map": "/user-card-/static/js/2.ae1170db.chunk.js.map",
+    "static/js/3.4330de21.chunk.js": "/user-card-/static/js/3.4330de21.chunk.js",
+    "static/js/3.4330de21.chunk.js.map": "/user-card-/static/js/3.4330de21.chunk.js.map",
+    "index.html": "/user-card-/index.html",
+    "static/css/main.31e2dc98.chunk.css.map": "/user-card-/static/css/main.31e2dc98.chunk.css.map",
+    "static/js/2.ae1170db.chunk.js.LICENSE.txt": "/user-card-/static/js/2.ae1170db.chunk.js.LICENSE.txt",
+    "static/media/lgm-logo.2ea4827d.png": "/user-card-/static/media/lgm-logo.2ea4827d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca74c6ee.js",
+    "static/js/2.ae1170db.chunk.js",
+    "static/css/main.31e2dc98.chunk.css",
+    "static/js/main.35d22350.chunk.js"
+  ]
+}
